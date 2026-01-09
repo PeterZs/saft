@@ -69,11 +69,13 @@ Please change the loaded scene and other options in ```metrics.py``` according t
 ## Citation
 
 ```
-@inproceedings{stotko2025saft,
-	title = {{SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video}},
-	author = {Stotko, David and Klein, Reinhard},
-	booktitle = {{International Conference on Computer Vision (ICCV)}},
-	year = {2025},
+@InProceedings{Stotko_2025_ICCV,
+    title     = {{SAFT: Shape and Appearance of Fabrics from Template via Differentiable Physical Simulations from Monocular Video}},
+    author    = {Stotko, David and Klein, Reinhard},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year      = {2025},
+    month     = {October},
+    pages     = {27660--27670}
 }
 ```
 
